@@ -1,0 +1,19 @@
+2
+8
+Foo Foo
+Bar Bar
+Baz Foo
+Foo Baz
+Bar Foo
+Foo Bar
+Baz Foo
+Baz Bar
+8
+x y
+y z
+z z
+z z
+x z
+a x
+b z
+a b
