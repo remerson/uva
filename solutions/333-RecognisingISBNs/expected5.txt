@@ -1,0 +1,22 @@
+0823025713 is correct.
+013152447X is correct.
+013152447x is incorrect.
+ is incorrect.
+082302571 is incorrect.
+08230257130 is incorrect.
+2803025713 is incorrect.
+07632200X1 is incorrect.
+0823025713 is correct.
+0823025713 is correct.
+0823025713 is correct.
+0823025713 is correct.
+0823025713 is correct.
+082 3025713 is incorrect.
+0823025	713 is incorrect.
+--08-2----302--5713------ is correct.
+082302_5713 is incorrect.
+013152447X bla is incorrect.
+013-A-152447X is incorrect.
+0-1-3-1-5-2-4-4-7-X- - is incorrect.
+01315 is incorrect.
+2447X is incorrect.
