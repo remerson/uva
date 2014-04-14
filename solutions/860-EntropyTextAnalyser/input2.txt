@@ -1,0 +1,6 @@
+a! a!
+b!!,,(c d e)
+"
+f g h i
+****END_OF_TEXT****
+****END_OF_INPUT****
