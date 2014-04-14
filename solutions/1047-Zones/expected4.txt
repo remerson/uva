@@ -1,0 +1,76 @@
+Case Number  1
+Number of Customers: 1999997
+Locations recommended: 1 11
+
+Case Number  2
+Number of Customers: 2999931
+Locations recommended: 1 11 15
+
+Case Number  3
+Number of Customers: 3999575
+Locations recommended: 1 11 15 16
+
+Case Number  4
+Number of Customers: 4999211
+Locations recommended: 1 11 15 16 17
+
+Case Number  5
+Number of Customers: 5998495
+Locations recommended: 1 11 13 15 16 17
+
+Case Number  6
+Number of Customers: 6997628
+Locations recommended: 1 8 11 13 15 16 17
+
+Case Number  7
+Number of Customers: 7992518
+Locations recommended: 1 8 9 11 13 16 17 20
+
+Case Number  8
+Number of Customers: 8979511
+Locations recommended: 1 6 8 9 11 13 16 17 20
+
+Case Number  9
+Number of Customers: 9966494
+Locations recommended: 1 6 8 9 11 12 13 16 17 20
+
+Case Number  10
+Number of Customers: 10944245
+Locations recommended: 1 6 8 9 11 12 13 14 16 17 20
+
+Case Number  11
+Number of Customers: 11921663
+Locations recommended: 1 6 8 9 11 12 13 14 15 16 17 20
+
+Case Number  12
+Number of Customers: 12897340
+Locations recommended: 1 6 8 9 11 12 13 14 15 16 17 19 20
+
+Case Number  13
+Number of Customers: 13870189
+Locations recommended: 1 6 8 9 11 12 13 14 15 16 17 18 19 20
+
+Case Number  14
+Number of Customers: 14837551
+Locations recommended: 1 5 6 8 9 11 12 13 14 15 16 17 18 19 20
+
+Case Number  15
+Number of Customers: 15804501
+Locations recommended: 1 5 6 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+Case Number  16
+Number of Customers: 16725429
+Locations recommended: 1 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+Case Number  17
+Number of Customers: 17641797
+Locations recommended: 1 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+Case Number  18
+Number of Customers: 18558163
+Locations recommended: 1 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+Case Number  19
+Number of Customers: 19472868
+Locations recommended: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+

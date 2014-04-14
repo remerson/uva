@@ -1,0 +1,16 @@
+Case Number  1
+Number of Customers: 39
+Locations recommended: 18
+
+Case Number  2
+Number of Customers: 203
+Locations recommended: 7 11 16 17 18 19 20
+
+Case Number  3
+Number of Customers: 289
+Locations recommended: 2 3 4 7 8 11 12 13 16 17 18 19 20
+
+Case Number  4
+Number of Customers: 310
+Locations recommended: 2 3 4 5 6 7 8 9 11 12 13 16 17 18 19 20
+

@@ -1,0 +1,8 @@
+Case Number  1
+Number of Customers: 3979980
+Locations recommended: 1 3 4 5
+
+Case Number  2
+Number of Customers: 1999997
+Locations recommended: 1 4
+
