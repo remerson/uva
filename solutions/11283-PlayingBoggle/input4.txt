@@ -1,0 +1,12 @@
+1
+aaaa
+aaaa
+aaaa
+aaab
+
+5
+aaaaaaaaaaaaaaab
+baaaaaaaaaaaaaaa
+aaaaaaabaaaaaaaa
+aaaaaaaaaaaaaaba
+aaaaaaaaaaaaaaaa
