@@ -1,0 +1,6 @@
+Case 1: 2 nodes not reachable from node 100 with TTL = 5.
+Case 2: 4 nodes not reachable from node 7 with TTL = 3.
+Case 3: 12 nodes not reachable from node 1005 with TTL = 3.
+Case 4: 6 nodes not reachable from node 1004 with TTL = 5.
+Case 5: 1 nodes not reachable from node 2100 with TTL = 6.
+Case 6: 0 nodes not reachable from node 1000 with TTL = 99.
