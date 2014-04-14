@@ -1,0 +1,7 @@
+Case 1:
+Closest sum to 169864875 is 159290098.
+Closest sum to 747763675 is 742781762.
+Closest sum to -719517399 is -718267822.
+Closest sum to -865618483 is -870000077.
+Closest sum to -99268666 is -107931964.
+Closest sum to -583255981 is -567454907.

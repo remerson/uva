@@ -1,0 +1,8 @@
+Case 1:
+Closest sum to 5 is 5.
+Case 2:
+Closest sum to 4 is 4.
+Case 3:
+Closest sum to 6 is 6.
+Case 4:
+Closest sum to 5 is 5.

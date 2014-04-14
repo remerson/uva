@@ -1,0 +1,5 @@
+Case 1:
+Closest sum to 87 is 86.
+Closest sum to 92 is 92.
+Closest sum to 43 is 42.
+Closest sum to 120 is 115.

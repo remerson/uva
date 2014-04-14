@@ -1,0 +1,6 @@
+Case 1:
+Closest sum to 10 is 10.
+Case 2:
+Closest sum to 1 is 200001.
+Case 3:
+Closest sum to 2 is 2.
