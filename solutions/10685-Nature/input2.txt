@@ -1,0 +1,95 @@
+5 5
+a b c d e
+a c
+b d
+e a
+c d
+b c
+
+10 3
+a b c d e f g h i j
+a j
+a f
+j f
+
+3 1
+a b c
+c b
+
+5 3
+a b c d e
+a b
+a c
+a d
+
+4 2
+a
+b
+c
+d
+a c
+b d
+
+3 3
+a
+b
+c
+a b
+c b
+a c
+
+8 7
+a b c d e f g h
+a b
+a c
+a d
+a e
+a f
+a h
+a g
+
+9 0
+a b c d e f g h i
+
+1 0
+a
+
+4 6
+a b c d
+a b
+a c
+a d
+a b
+a c
+c d
+
+7 3
+a
+b
+c
+d
+e
+f
+g
+c e
+e f
+d e
+
+2 1
+a
+f
+a f
+
+10 9
+a b c d e f g h i j
+b a
+c a
+d a
+e a
+f a
+g a
+h a
+i a
+j a
+
+0 0
