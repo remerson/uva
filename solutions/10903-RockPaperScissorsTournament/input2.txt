@@ -1,0 +1,11 @@
+3 3
+1 scissors 2 rock
+1 paper 3 rock
+2 rock 3 scissors
+1 paper 2 paper
+1 scissors 3 scissors
+2 scissors 3 paper
+1 paper 2 scissors
+1 paper 3 scissors
+2 rock 3 rock
+0

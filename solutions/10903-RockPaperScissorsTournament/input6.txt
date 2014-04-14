@@ -1,0 +1,23 @@
+2 12
+1 rock 2 paper
+1 scissors 2 paper
+1 rock 2 rock
+2 rock 1 scissors
+1 rock 2 paper
+1 scissors 2 paper
+1 rock 2 rock
+2 rock 1 scissors
+1 rock 2 paper
+1 scissors 2 paper
+1 rock 2 rock
+2 rock 1 scissors
+2 8
+1 rock 2 paper
+1 scissors 2 paper
+1 rock 2 rock
+2 rock 1 scissors
+1 rock 2 paper
+1 scissors 2 paper
+1 rock 2 rock
+2 rock 1 scissors
+0
