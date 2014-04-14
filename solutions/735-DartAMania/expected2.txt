@@ -1,0 +1,33 @@
+THE SCORE OF 501 CANNOT BE MADE WITH THREE DARTS.
+**********************************************************************
+NUMBER OF COMBINATIONS THAT SCORES 1 IS 1.
+NUMBER OF PERMUTATIONS THAT SCORES 1 IS 3.
+**********************************************************************
+NUMBER OF COMBINATIONS THAT SCORES 2 IS 2.
+NUMBER OF PERMUTATIONS THAT SCORES 2 IS 6.
+**********************************************************************
+NUMBER OF COMBINATIONS THAT SCORES 3 IS 3.
+NUMBER OF PERMUTATIONS THAT SCORES 3 IS 10.
+**********************************************************************
+NUMBER OF COMBINATIONS THAT SCORES 4 IS 4.
+NUMBER OF PERMUTATIONS THAT SCORES 4 IS 15.
+**********************************************************************
+NUMBER OF COMBINATIONS THAT SCORES 5 IS 5.
+NUMBER OF PERMUTATIONS THAT SCORES 5 IS 21.
+**********************************************************************
+NUMBER OF COMBINATIONS THAT SCORES 100 IS 120.
+NUMBER OF PERMUTATIONS THAT SCORES 100 IS 678.
+**********************************************************************
+NUMBER OF COMBINATIONS THAT SCORES 91 IS 140.
+NUMBER OF PERMUTATIONS THAT SCORES 91 IS 810.
+**********************************************************************
+NUMBER OF COMBINATIONS THAT SCORES 123 IS 53.
+NUMBER OF PERMUTATIONS THAT SCORES 123 IS 288.
+**********************************************************************
+NUMBER OF COMBINATIONS THAT SCORES 180 IS 1.
+NUMBER OF PERMUTATIONS THAT SCORES 180 IS 1.
+**********************************************************************
+NUMBER OF COMBINATIONS THAT SCORES 77 IS 174.
+NUMBER OF PERMUTATIONS THAT SCORES 77 IS 1008.
+**********************************************************************
+END OF OUTPUT
