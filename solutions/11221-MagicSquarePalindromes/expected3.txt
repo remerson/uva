@@ -1,0 +1,8 @@
+Case #1:
+8
+Case #2:
+No magic :(
+Case #3:
+No magic :(
+Case #4:
+8

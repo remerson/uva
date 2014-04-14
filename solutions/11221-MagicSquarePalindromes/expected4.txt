@@ -1,0 +1,30 @@
+Case #1:
+3
+Case #2:
+3
+Case #3:
+No magic :(
+Case #4:
+No magic :(
+Case #5:
+No magic :(
+Case #6:
+No magic :(
+Case #7:
+1
+Case #8:
+No magic :(
+Case #9:
+2
+Case #10:
+No magic :(
+Case #11:
+4
+Case #12:
+No magic :(
+Case #13:
+4
+Case #14:
+No magic :(
+Case #15:
+No magic :(
