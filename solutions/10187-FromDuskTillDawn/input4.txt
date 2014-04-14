@@ -1,0 +1,11 @@
+2
+3
+Dhk Ctg 1 2
+Ctg Syl 2 3
+Syl Mym 4 5
+Dhk Syl
+3
+Dhk Ctg 18 19
+Ctg Syl 19 20
+Syl Mym 21 22
+Dhk Ctg

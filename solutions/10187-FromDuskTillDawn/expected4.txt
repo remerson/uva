@@ -1,0 +1,4 @@
+Test Case 1.
+Vladimir needs 1 litre(s) of blood.
+Test Case 2.
+There is no route Vladimir can take.

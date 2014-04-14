@@ -1,0 +1,20 @@
+Test Case 1.
+There is no route Vladimir can take.
+Test Case 2.
+There is no route Vladimir can take.
+Test Case 3.
+Vladimir needs 8 litre(s) of blood.
+Test Case 4.
+There is no route Vladimir can take.
+Test Case 5.
+There is no route Vladimir can take.
+Test Case 6.
+There is no route Vladimir can take.
+Test Case 7.
+There is no route Vladimir can take.
+Test Case 8.
+There is no route Vladimir can take.
+Test Case 9.
+Vladimir needs 2 litre(s) of blood.
+Test Case 10.
+There is no route Vladimir can take.
