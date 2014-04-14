@@ -1,0 +1,3 @@
+There is only 1 way to produce 0 cents change.
+There are 107683177001 ways to produce 20000 cents change.
+There are 543427145501 ways to produce 30000 cents change.
