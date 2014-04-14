@@ -1,0 +1,5 @@
+r/G,o/P,y/S,g/A,b/N
+r/P,o/S,y/G,g/A,b/N
+r/G,o/P,y/S,g/A,b/N
+e
+#
