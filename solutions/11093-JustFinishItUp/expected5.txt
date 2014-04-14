@@ -1,0 +1,5 @@
+Case 1: Possible from station 63321
+Case 2: Possible from station 46
+Case 3: Not possible
+Case 4: Possible from station 78241
+Case 5: Not possible

@@ -1,0 +1,10 @@
+Case 1: Not possible
+Case 2: Not possible
+Case 3: Possible from station 9
+Case 4: Possible from station 64
+Case 5: Possible from station 39
+Case 6: Not possible
+Case 7: Possible from station 48
+Case 8: Possible from station 44
+Case 9: Not possible
+Case 10: Not possible

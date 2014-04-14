@@ -1,0 +1,2 @@
+Case 1: Possible from station 1
+Case 2: Not possible
