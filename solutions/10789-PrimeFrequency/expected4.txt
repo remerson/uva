@@ -1,0 +1,8 @@
+Case 1: 2357BDHJNTVbfhlrxz
+Case 2: 2357BDHJNTVbfhlrxz
+Case 3: Tx
+Case 4: 2
+Case 5: empty
+Case 6: 2
+Case 7: 3A
+Case 8: empty
