@@ -1,0 +1,16 @@
+Case 1: 0
+Case 2: 0
+Case 3: 2
+Case 4: 25
+Case 5: 25
+Case 6: 26
+Case 7: 26
+Case 8: 26
+Case 9: impossible
+Case 10: impossible
+Case 11: 26
+Case 12: 26
+Case 13: 25
+Case 14: 25
+Case 15: 26
+Case 16: impossible

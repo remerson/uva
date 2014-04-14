@@ -1,0 +1,7 @@
+Case 1: 1
+Case 2: impossible
+Case 3: 25
+Case 4: 25
+Case 5: 26
+Case 6: 26
+Case 7: impossible
