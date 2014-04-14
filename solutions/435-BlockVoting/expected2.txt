@@ -1,0 +1,51 @@
+party 1 has power index 28
+party 2 has power index 116
+party 3 has power index 72
+party 4 has power index 32
+party 5 has power index 40
+party 6 has power index 124
+party 7 has power index 32
+party 8 has power index 332
+party 9 has power index 28
+party 10 has power index 176
+
+party 1 has power index 790
+party 2 has power index 50
+party 3 has power index 198
+party 4 has power index 250
+party 5 has power index 610
+party 6 has power index 2354
+party 7 has power index 46
+party 8 has power index 1094
+party 9 has power index 250
+party 10 has power index 250
+party 11 has power index 822
+party 12 has power index 1610
+party 13 has power index 210
+
+party 1 has power index 7636
+party 2 has power index 15276
+party 3 has power index 22924
+party 4 has power index 30590
+party 5 has power index 38274
+party 6 has power index 45984
+party 7 has power index 53722
+party 8 has power index 61510
+party 9 has power index 69314
+party 10 has power index 77188
+party 11 has power index 85108
+party 12 has power index 93094
+party 13 has power index 101148
+party 14 has power index 109286
+party 15 has power index 117510
+party 16 has power index 125836
+party 17 has power index 134274
+party 18 has power index 142840
+party 19 has power index 151554
+party 20 has power index 160436
+
+party 1 has power index 1
+
+party 1 has power index 2
+party 2 has power index 0
+
