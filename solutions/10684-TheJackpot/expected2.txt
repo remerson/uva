@@ -1,0 +1,10 @@
+The maximum winning streak is 12269.
+The maximum winning streak is 5865.
+The maximum winning streak is 4517.
+The maximum winning streak is 6529.
+The maximum winning streak is 8604.
+The maximum winning streak is 6534.
+The maximum winning streak is 3751.
+The maximum winning streak is 5791.
+The maximum winning streak is 7282.
+The maximum winning streak is 9811.
