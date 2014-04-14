@@ -1,0 +1,1 @@
+Minimum exchange operations : 6
