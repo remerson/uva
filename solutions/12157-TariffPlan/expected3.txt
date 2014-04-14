@@ -1,0 +1,12 @@
+Case 1: Mile Juice 60
+Case 2: Juice 60
+Case 3: Mile 40
+Case 4: Juice 135
+Case 5: Mile Juice 30
+Case 6: Juice 45
+Case 7: Juice 150
+Case 8: Juice 240
+Case 9: Juice 75
+Case 10: Juice 75
+Case 11: Juice 750
+Case 12: Mile 60
