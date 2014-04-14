@@ -1,0 +1,4 @@
+A:Z;Z:A
+X:YZ;Y:X;Z:X
+Q:RS;S:T;U:VA;S:Q;R:Q;A:U;V:U;A:Q;Q:A
+#
