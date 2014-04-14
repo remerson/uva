@@ -1,0 +1,10 @@
+The minimum cutting is 2778.
+The minimum cutting is 348.
+The minimum cutting is 1203.
+The minimum cutting is 2827.
+The minimum cutting is 1034.
+The minimum cutting is 1572.
+The minimum cutting is 3271.
+The minimum cutting is 1156.
+The minimum cutting is 929.
+The minimum cutting is 776.
