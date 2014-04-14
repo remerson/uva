@@ -1,0 +1,43 @@
+1 June 2011 Last updated at 23:36
+Share this page
+
+    * Email
+    * Print
+
+Share this page
+1,539
+
+    * Share
+    * Facebook
+    * Twitter
+
+Google e-mail accounts compromised by 'Chinese hackers'
+Google's logo Google said its own security defences were not compromised but that individual users were tricked
+Continue reading the main story
+Related Stories
+
+    * Google's China exit 'exaggerated'
+    * US 'closes in on Google hackers'
+    * US to protest to China on Google
+
+Hackers in China have compromised personal e-mail accounts of hundreds of top US officials, military personnel and journalists, Google has said.
+
+The US company said a campaign to obtain passwords originated in Jinan and was aimed at monitoring e-mail.
+
+Google said its security was not breached but indicated individuals' passwords were obtained through fraud.
+
+Chinese political activists and officials in other Asian countries were also targeted, Google said.
+
+"Google detected and has disrupted this campaign to take users' passwords and monitor their emails," the company said on Wednesday.
+
+"We have notified victims and secured their accounts. In addition, we have notified relevant government authorities."
+
+In Washington, the White House said it was investigating the reports but did not believe official US government e-mail accounts had been breached.
+
+The e-mail scam uses a practice known as "spear phishing" in which specific e-mail users are tricked into divulging their login credentials to a web page that resembles Google's Gmail web service (or which appears related to the target's work) but is in fact run by hackers, according to a technical report released by Google.
+
+Having obtained the user's e-mail login and password, the hackers then tell Gmail's service to forward incoming e-mail to another account set up by the hacker.
+
+In Washington, the BBC's Adam Brookes says it is extremely difficult for analysts to determine whether governments or individuals are responsible for such attacks.
+
+But the fact that the victims were people with access to sensitive, even secret information, raises the possibility that this was cyber espionage, not cyber crime, our correspondent says.
