@@ -1,0 +1,28 @@
+----------------------------------------
+Jane Alam Jan
+Dhaka
+Department: Computer Science
+Home Phone: 880-0014
+Work Phone: 876-0067
+Campus Box: 876
+----------------------------------------
+Mr. John Kepler
+East Pleasure
+Department: Computer Science
+Home Phone: 555-1432
+Work Phone: 555-2343
+Campus Box: 126
+----------------------------------------
+Mrs. Jessica Lembeck
+Center Street
+Department: English Department
+Home Phone: 555-2543
+Work Phone: 555-8584
+Campus Box: 928
+----------------------------------------
+Dr. Tom Zavis
+Anystreet USA
+Department: English Department
+Home Phone: 555-2832
+Work Phone: 555-2423
+Campus Box: 823
