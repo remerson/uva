@@ -1,0 +1,10 @@
+The parity of 11100000000110101001000 is 8 (mod 2).
+The parity of 100001100001 is 4 (mod 2).
+The parity of 1000011111000100110011 is 11 (mod 2).
+The parity of 101111100101000111011100100 is 15 (mod 2).
+The parity of 1111111111111111111111111111111 is 31 (mod 2).
+The parity of 10011 is 3 (mod 2).
+The parity of 10000000000 is 1 (mod 2).
+The parity of 1000000000000 is 1 (mod 2).
+The parity of 10000000000000000 is 1 (mod 2).
+The parity of 10000000000000001 is 2 (mod 2).
