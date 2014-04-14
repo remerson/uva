@@ -1,0 +1,84 @@
+#include <iostream>
+#include <cstdio>
+#include <cmath>
+#include <sstream>
+#include <bitset>
+
+#ifndef ONLINE_JUDGE
+#define DEBUG(X) { X; }
+#else
+#define DEBUG(X)
+#endif
+
+using namespace std;
+
+inline char *read_unsigned(unsigned &v, char *b)
+{
+  while(!isdigit(*b)) ++b;
+  v = 0;
+  
+  while(isdigit(*b)) 
+    v = v * 10 + *(b++) - '0';
+  return b;
+}
+
+const unsigned N_MAX = 1024 * 1024;
+
+const unsigned B_MAX = 32;
+
+
+int main()
+{
+  unsigned n, m;
+  char buffer[B_MAX];
+
+  while(true)
+  {
+    unsigned count = 0;
+    char *b = fgets(buffer, B_MAX - 1, stdin);
+    b = read_unsigned(n, b);
+    b = read_unsigned(m, b);
+    DEBUG(printf("N = %u M = %u\n", n, m));
+    if(n == 0 && m == 0) break;
+
+    unsigned x[N_MAX];
+    unsigned y[N_MAX];
+
+    for(unsigned i = 0; i < n; ++i)
+    {
+      read_unsigned(x[i], fgets(buffer, B_MAX - 1, stdin));
+      DEBUG(printf("READ x[%u] = %u\n", i, x[i]));
+    }
+
+    for(unsigned i = 0; i < m; ++i)
+    {
+      read_unsigned(y[i], fgets(buffer, B_MAX - 1, stdin));
+      DEBUG(printf("READ y[%u] = %u\n", i, y[i]));
+    }
+
+    unsigned i = 0;
+    unsigned j = 0;
+
+    while(i < n && j < m)
+    {
+      if(x[i] == y[j])
+      {
+        ++i;
+        ++j;
+        ++count;
+      }
+      else if(x[i] < y[j])
+      {
+        ++i;
+      }
+      else if(x[i] > y[j])
+      {
+        ++j;
+      }
+    }
+    
+    printf("%d\n", count);
+  }
+
+  return 0;
+}
