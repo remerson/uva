@@ -1,0 +1,21 @@
+2 is prime.
+3 is prime.
+4 is not prime.
+5 is prime.
+6 is not prime.
+7 is prime.
+8 is not prime.
+9 is not prime.
+10 is not prime.
+11 is prime.
+12 is not prime.
+13 is emirp.
+999883 is prime.
+999907 is prime.
+999917 is prime.
+999931 is emirp.
+999953 is prime.
+999959 is prime.
+999961 is prime.
+999979 is prime.
+999983 is emirp.
