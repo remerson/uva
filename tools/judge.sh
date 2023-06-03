@@ -25,7 +25,7 @@ function build()
 
     if [ "${EXTENSION}" == "cpp" ]
     then
-        COMMAND="g++ -Wall -g -O2 -lm -lcrypt -pipe ${DEFINES} ${SOURCE}"
+        COMMAND="g++ -Wall -g -O2 -std=c++11 -lm -lcrypt -pipe ${DEFINES} ${SOURCE}"
     elif [ "${EXTENSION}" == "java" ]
     then
         cp ${SOURCE} Main.java
@@ -174,7 +174,7 @@ INPUTS=all
 SOURCE=none
 TIMED=no
 TIME_LIMIT_SECS=1
-MEM_LIMIT_KB=16384
+MEM_LIMIT_KB=32000
 # Be more generous for diff/valgrind as these can need more memory
 TOOL_MEM_LIMIT_KB=131072
 PRECMD=none
