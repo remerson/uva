@@ -64,7 +64,6 @@ cp -a ${source}/notes.md ${target}
 cp -a ${source}/input*.txt ${target}
 cp -a ${source}/expected*.txt ${target}
 cp -a ${source}/$number.cpp ${target}
-cp -a ${source}/*.pdf ${target}
 
 git add ${target}
 git commit -m "Added solution ${problem}"
