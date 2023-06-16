@@ -51,7 +51,7 @@ mkdir -p ${target}
 
 mv $(basename ${pdfurl}) ${target}
 cp ./judge.sh ${target}
-cp ./competitive.cpp ${target}/solution.cpp
+cp ./competitive.cpp ${target}/${number}.cpp
 touch ${target}/input1.txt
 touch ${target}/expected1.txt
 touch ${target}/notes.md
