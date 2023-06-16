@@ -37,7 +37,7 @@ echo "Downloading problem ${number} PDF: ${pdfurl}"
 
 wget --quiet -r ${pdfurl} -O $(basename ${pdfurl})
 
-target=../${number}-${name}
+target=../working/${number}-${name}
 
 echo "Setting up ${TARGET}"
 
@@ -51,9 +51,27 @@ mkdir -p ${target}
 
 mv $(basename ${pdfurl}) ${target}
 cp ./judge.sh ${target}
-cp ./competitive.cpp ${target}/${number}.cpp
+cp ../src/competitive.cpp ${target}/${number}.cpp
 touch ${target}/input1.txt
 touch ${target}/expected1.txt
-touch ${target}/notes.md
+cat > ${target}/notes.md <<EOF
+# UVa ${number} ${name}
+
+   * ${pdfurl}
+
+## Categories
+
+   *
+
+## Approach
+
+## Hints
+
+   *
+
+## Optimisations
+
+   * None attempted.
+EOF
 
 cd ${target}
