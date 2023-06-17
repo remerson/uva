@@ -1,0 +1,13 @@
+4
+
+ABCDA
+CBADC
+
+AB
+BC
+
+ABC
+DEF
+
+ABCABC
+BACBAC

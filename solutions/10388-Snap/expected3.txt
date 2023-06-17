@@ -1,0 +1,16 @@
+Snap! for Jane: BCBA
+Snap! for Jane: DADCBCBA
+Snap! for John: CBAC
+Snap! for John: ADADCBAC
+John wins.
+
+Snap! for Jane: BCBA
+Snap! for Jane: DADCBCBA
+Snap! for Jane: CCBA
+Jane wins.
+
+Snap! for John: BABC
+Snap! for Jane: DABABCDC
+Snap! for John: CC
+Snap! for Jane: CCCD
+Jane wins.
