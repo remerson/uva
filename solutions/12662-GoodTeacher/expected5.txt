@@ -1,0 +1,14 @@
+A
+middle of A and B
+B
+middle of B and C
+C
+middle of C and D
+D
+middle of D and E
+E
+middle of E and F
+F
+right of F
+left of G
+G
